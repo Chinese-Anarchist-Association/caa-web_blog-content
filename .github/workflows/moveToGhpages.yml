@@ -38,7 +38,7 @@ jobs:
 
     - name: Copy files to the dist folder
       run: |
-        cp -Rv doc dist/
+        cp -Rv blog dist/
         cp -v index.html dist/
         cp -v CNAME dist/
 
