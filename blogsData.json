@@ -2,7 +2,7 @@
     {
         "id": 0,
         "blog": {
-            "uri": "test/test.mdz",
+            "uri": "$$$blogContent_baseUrl_1$$$test/test.mdz",
             "fileType": "mdz"
         },
         "cover": {
